@@ -1,0 +1,27 @@
+.main{
+    height: 800px;
+    width: 1000px;
+    margin: auto;
+    background-color: aquamarine;
+   
+}
+
+.frame{
+    height: 400px;
+    width: 800px;
+    background-color: burlywood;
+}
+
+.child{
+        background-color: brown;
+        height: 400px;
+        width:200px;
+}
+
+.one{
+    float:left;    
+}
+
+.two{
+    float:right;    
+}
